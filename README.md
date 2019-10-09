@@ -21,6 +21,8 @@ mkdir Compiled classes
 ./clojurec.sh
 ```
 
+if the `clojurec.sh` script doesn't launch, you may need to `chmod +x clojure.sh`
+
 Now when you run Leikr you should be able to `>run MyClojure` and see some boxes 
 
 Happy hacking!
